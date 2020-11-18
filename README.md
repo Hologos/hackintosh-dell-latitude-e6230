@@ -35,3 +35,9 @@ To install hackintosh on your laptop, follow this guide [Dell Latitude/Inspiron/
 ## Issues
 
 *no known issues*
+
+## Donation
+
+If you like what I do and you found this repository helpful, you can
+
+<a href="https://www.buymeacoffee.com/hologos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
